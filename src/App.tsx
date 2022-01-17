@@ -5,7 +5,7 @@ const App = () => {
       <C.Container>
         <C.Area>
           <C.Header>
-            Lista de Tarefas
+            -- Lista de Tarefas do Lucão --
           </C.Header>
         </C.Area>
       </C.Container>
